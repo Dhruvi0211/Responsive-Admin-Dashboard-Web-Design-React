@@ -1,8 +1,5 @@
 # Responsive Website Built with React and Framer Motion with Scrolling.
 
-## [Watch it on youtube](https://youtu.be/bKhfUrUgWng)
+React Responsive Admin Dashboard Tutorial with Chart Library. This React Dashboard is completly responsive. The Dashboard has used recharts for the chart library. For Styling this Dashboard Scss has been used. The Dashboard is made responsive with css media queries. Dashboards are generally used for data visualisations. This dashboard is created specifically for the Music Industry.
 
-Don't forget to join the channel for more videos like this.
-[Kishan Sheth](https://www.youtube.com/c/kishansheth21?sub_confirmation=1)
-
-Support me with a [coffee](https://www.buymeacoffee.com/koolkishansheth)
+Technology Used: React JS, HTML, CSS, JavaScript.
